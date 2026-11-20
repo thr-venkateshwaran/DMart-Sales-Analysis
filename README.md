@@ -16,7 +16,7 @@ Note: This is a sample practice dataset, not real D-Mart company data.
 9. What should management do?
 
 ## Dataset
-- Source: Dataset from Kaggle (exact link not recorded
+- Source: Dataset from Kaggle (exact link not recorded)
 - Period: January 2021 to December 2022
 - Columns: date, product, quantity, sale type, location, payment mode, category, purchase price, sale price, amounts
 - Limitations: no customer or order ID, profit is gross profit only (sales minus purchase cost), no expenses such as shipping or fees
@@ -50,8 +50,8 @@ I used AI tools to help draft tables and insights. I verified every number again
 ## Files
 - DMart_Sales_Analysis.xlsx: full analysis (findings, category, product, channel, location, payment mode, insights)
 - sales.csv: sales transactions
-- products.csv: product details
-- insights.csv: written insights
+- product.csv: product details
+- Insights.csv: written insights
 
 ## Next Steps
 - Answer the same questions with SQL
@@ -59,4 +59,4 @@ I used AI tools to help draft tables and insights. I verified every number again
 
 ## About Me
 Name: Thiru venkateshwaran.M
-LinkedIn profile:https://www.linkedin.com/in/thiru-venkateshwaran-40466b326 
+LinkedIn profile: https://www.linkedin.com/in/thiru-venkateshwaran-40466b326 
